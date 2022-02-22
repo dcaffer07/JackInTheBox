@@ -18,9 +18,9 @@
 ##### Evidence
 [Here is the Base on OnShape](https://cvilleschools.onshape.com/documents/0683eb52a22173b51047934c/w/f86c45cb89f616eb262b8ff8/e/189681eae29da1fce519768c)
 ##### Image
-##### Reflection
 <img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:400px;">
-
+Base Assembly 
+##### Reflection
 ### Gear Construction
 ##### Description
 > To run our Jack in the Box on a servo we had to attach our servo to a shaft that connected to the drum which made the musid and opened the box. To achive this we created a gearbox with two 3d printed gears. One of the gears was screwed onto a metal axel hub. The axel hub had a hole in it that the shaft  of the jack in the box would go through. However the shaft and hole of the axel hub had different diameters, so we needed to print a smaller piece that could copensate for the differnce in diamters. The second gear was screwed onto a servo head. To get the gears onto the shaft we had to remove the shaft from the box and then put the gears on. We then used a bracket to hold the gears in the correct position so that when the servo spinned, the shaft also spinned creationg music and trigering the opening mechanism for the box. 
@@ -28,5 +28,5 @@
 [Gearbox](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 ##### Image
 <img src="FinalAssembly.png" alt="FinalAssembly" style="width:400px;">
-
+Gear Box Assembly
 ##### Reflection
