@@ -19,6 +19,7 @@
 [Here is the Base on OnShape](https://cvilleschools.onshape.com/documents/0683eb52a22173b51047934c/w/f86c45cb89f616eb262b8ff8/e/189681eae29da1fce519768c)
 ##### Image
 <img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:400px;">
+
 Base Assembly 
 ##### Reflection
 ### Gear Construction
@@ -28,5 +29,6 @@ Base Assembly
 [Gearbox](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 ##### Image
 <img src="FinalAssembly.png" alt="FinalAssembly" style="width:400px;">
+
 Gear Box Assembly
 ##### Reflection
