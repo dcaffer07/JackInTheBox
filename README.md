@@ -3,7 +3,7 @@
 ## Table of Contents 
 ##### [Inovation and Planning Stage](https://github.com/dcaffer07/LED-review-E2/blob/main/README.md#led-blink-w-button---aurduino-review-assignment) 
 ##### Materials Used
-##### [CAD Renderings](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#cad-renderings-1)
+#### CAD Renderings
 ##### [Base Construction](https://github.com/dcaffer07/LED-review-E2/blob/main/README.md#led-fade-wo-button)
 ##### [Gear Design and Development](https://github.com/dcaffer07/LED-review-E2/blob/main/README.md#potentiometers-1) 
 #### Milestone #2
@@ -18,20 +18,12 @@
 ##### Evidence
 [Here is the Base on OnShape](https://cvilleschools.onshape.com/documents/0683eb52a22173b51047934c/w/f86c45cb89f616eb262b8ff8/e/189681eae29da1fce519768c)
 ##### Image
-<img src="https://user-images.githubusercontent.com/71406831/155197826-cd1ded8b-5596-4098-ab71-57fda07b7e1c.png" alt="FinalAssembly" style="width:400px;">
-
 ##### Reflection
-> All in all the contruction and printing istelf was reletively easy despite a few hicups, howver after going through it, here are a few take ways from my experience creating this... 
-> - When possible, always try to use accrilic and laser cut.  We had orriginally planned to 3D print the entire this, howver we that would have cost almost 10 times the amount of, which was esspecial helpful considering the fact that we had to reprint.
-> - Friction fit is an extermely efficient and easy way to attach things such as a box together.
-> - Always leave yourself more room than anticpated.  This came up as we had orriginaly not left oursleves enough space to make the actually Jack s=attatch to the base, however we were able to fix this through extruding the walls 3mm's up and than reprinting.
-> - Mentaly walk through the design and the CONSTRUCTION OF THE OTHER PIECES TO THE BOX! I say this because we had trouble attching the differnet aspects because they seemed to fit on OnShape howver when doing it by hand it was much more difficult, so just double check.
->
-> All in all it was a fun build and I am super happy with the way it came out. 
+<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:400px;">
 
----
 ### Gear Construction
 ##### Description
+> To run our Jack in the Box on a servo we had to attach our servo to a shaft that connected to the drum which made the musid and opened the box. To achive this we created a gearbox with two 3d printed gears. One of the gears was screwed onto a metal axel hub. The axel hub had a hole in it that the shaft  of the jack in the box would go through. However the shaft and hole of the axel hub had different diameters, so we needed to print a smaller piece that could copensate for the differnce in diamters. The second gear was screwed onto a servo head. To get the gears onto the shaft we had to remove the shaft from the box and then put the gears on. We then used a bracket to hold the gears in the correct position so that when the servo spinned, the shaft also spinned creationg music and trigering the opening mechanism for the box. 
 ##### Evidence
 [Gearbox](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 ##### Image
