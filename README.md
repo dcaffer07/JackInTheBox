@@ -19,8 +19,7 @@
 [Here is the Base on OnShape](https://cvilleschools.onshape.com/documents/0683eb52a22173b51047934c/w/f86c45cb89f616eb262b8ff8/e/189681eae29da1fce519768c)
 ##### Image
 ##### Reflection
-<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:400px;">
-
+<img src="https://user-images.githubusercontent.com/71406831/155197826-cd1ded8b-5596-4098-ab71-57fda07b7e1c.png" alt="FinalAssembly" style="width:400px;">
 ### Gear Construction
 ##### Description
 ##### Evidence
