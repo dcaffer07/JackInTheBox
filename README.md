@@ -32,3 +32,5 @@ Base Assembly
 
 Gear Box Assembly
 ##### Reflection
+< Througout the process of designing the gear box we ran into several challenges.
+-When making holes often times because they were so small they cave in on themselves, so sometimes we had to manually enlarge them with a drill. In the future we could make the holes slightly larger than needed in the attempt that is they cave in they will still be the right size. 
