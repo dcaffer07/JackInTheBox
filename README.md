@@ -8,7 +8,7 @@
 * [Arduino Code](#arduino-code)
 ___
 
-### Planning Stage
+## Planning Stage
 #### Purpose & Expectations
 > To work diligently in order to create a product that improves and expands our overall knowledge of how basic engineering operates.  We are expected to work professionally, using our time and resources wisely.  We are expected to work with our partners efficiently to create an object that operates under the parameters provided. WIth this we will create device that incorporates all of the aspects of enginering we have learned about to scare and startle those who aren’t scared and startled enough in an effort to make the world a less scared-and-startle-free space.
 
@@ -30,7 +30,7 @@ ___
 > As stated, all in all I think we are super happy with how our planning went and how we were able to stick with that plan.
 
 
-### Materials Used
+## Materials Used
 
 - Acrylic (base of box)
 - 3d printer (gears)
@@ -44,9 +44,6 @@ ___
 - Arduino
 - Battery pack
 - Screws
-
-### Milestones
-___
 
 ## CAD Renderings 
 ### Base Construction
@@ -134,3 +131,7 @@ Wiring Diagram
 #### Reflection
 
 ___
+
+## Milestones
+#### Project Milestone Market 1 (January 28, 2022)
+#### Final Project
