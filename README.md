@@ -70,8 +70,8 @@ ___
 #### Evidence
 [Gearbox in OnShape](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 #### Image
-<img src="FinalAssembly.png" alt="FinalAssembly" style="width:300px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:200px;">
-Gear Box Assembly
+<img src="FinalAssembly.png" alt="FinalAssembly" style="width:300px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;">
+
 #### Reflection
 > Througout the process of designing the gear box we ran into several challenges.
 - When making holes often times because they were so small they cave in on themselves, so sometimes we had to manually enlarge them with a drill. In the future we could make the holes slightly larger than needed in the attempt that is they cave in they will still be the right size.
