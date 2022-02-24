@@ -2,11 +2,9 @@
 
 ## Table of Contents 
 ##### [Planning Stage](#planning-stage) 
-##### Materials Used
 ##### [CAD Renderings](#cad-renderings)
 ##### [Base Construction](#base-construction)
-##### [Gear Design](#gear-construction) 
-##### Milestones
+##### [Gear Construction](#gear-construction) 
 ##### [Arduino Code](#arduino-code)
 ---
 
