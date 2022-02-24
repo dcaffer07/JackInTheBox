@@ -19,7 +19,7 @@ ___
 [Here is the planning doc that was created pre-creation](https://docs.google.com/document/d/1VZ0yBxpb9KwrkzfvlptIvGs4Mx1cKSWb2F__tJyYy9g/edit#)
 
 #### Initital Sketch (Ended up being VERY close to final)
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jackInBox.png?raw=true" alt="wiring2" style="width:300px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jackInBox.png?raw=true" alt="wiring2" style="width:300px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jackInBox.png?raw=true" alt="wiring2" style="width:300px;">
 
 #### Reflection of Planning (done post project)
 > Overall I think we did a very good job with establishing a plan and going through with it, but some takaways...
