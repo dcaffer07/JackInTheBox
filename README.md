@@ -1,13 +1,13 @@
 # Motion Sensored Jack in the Box (Dom and Zac)
 
 ## Table of Contents 
-##### [Planning Stage](#planning_stage) 
+##### [Planning Stage](#planning-stage) 
 ##### Materials Used
-##### [CAD Renderings](#cad_renderings)
-##### [Base Construction](#base_construction)
-##### [Gear Design](#gear_construction) 
+##### [CAD Renderings](#cad-renderings)
+##### [Base Construction](#base-construction)
+##### [Gear Design](#gear-construction) 
 ##### Milestones
-##### [Arduino Code](#arduino_code)
+##### [Arduino Code](#arduino-code)
 ---
 
 ## Planning Stage
