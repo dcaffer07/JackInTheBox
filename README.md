@@ -70,7 +70,7 @@ ___
 #### Evidence
 [Gearbox in OnShape](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 #### Image
-<img src="FinalAssembly.png" alt="FinalAssembly" style="width:300px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;">
+<img src="FinalAssembly.png" alt="FinalAssembly" style="width:300px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/shaftSleeve.png?raw=true" alt="FinalAssembly" style="width:350px;">
 
 #### Reflection
 > Througout the process of designing the gear box we ran into several challenges.
