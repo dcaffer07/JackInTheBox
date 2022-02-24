@@ -19,15 +19,17 @@ ___
 [Here is the planning doc that was created pre-creation](https://docs.google.com/document/d/1VZ0yBxpb9KwrkzfvlptIvGs4Mx1cKSWb2F__tJyYy9g/edit#)
 
 #### Initital Sketch (Ended up being VERY close to final)
-<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:400px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jackInBox.png?raw=true" alt="wiring2" style="width:300px;">
 
-#### Reflection
-> This was pretty straight forward but again some major takaways for the future...
-> - When inserting base, set about the origine so you have one defined part.
-> - When inserting things such as screws or nuts, do not do it one by one, pick all spots and insert all once.
-> - Make sure that mates such as ones for wheels are resolute so they can turn.
+#### Reflection of Planning (done post project)
+> Overall I think we did a very good job with establishing a plan and going through with it, but some takaways...
+> - Be more exat and strict with milestones in planning and follow strictly.
+> - Accound for time to complete notebook or to deal with any issues.
+> - Do not expect to be able to 3D print everything!!, try to use as much cheap material as possible.
 >
-> Skateboard complete!
+> As stated, all in all I think we are super happy with how our planning went and how we were able to stick with that plan.
+
+
 ### Materials Used
 
 - Acrylic (base of box)
@@ -53,7 +55,7 @@ ___
 #### Evidence
 [Base in OnShape](https://cvilleschools.onshape.com/documents/0683eb52a22173b51047934c/w/f86c45cb89f616eb262b8ff8/e/189681eae29da1fce519768c)
 #### Image
-<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:400px;">
+<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:300px;">
 
 
 #### Reflection
@@ -71,7 +73,7 @@ ___
 #### Evidence
 [Gearbox in OnShape](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 #### Image
-<img src="FinalAssembly.png" alt="FinalAssembly" style="width:400px;">
+<img src="FinalAssembly.png" alt="FinalAssembly" style="width:300px;">
 
 Gear Box Assembly
 #### Reflection
