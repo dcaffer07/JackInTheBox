@@ -19,7 +19,7 @@ ___
 [Here is the planning doc that was created pre-creation](https://docs.google.com/document/d/1VZ0yBxpb9KwrkzfvlptIvGs4Mx1cKSWb2F__tJyYy9g/edit#)
 
 #### Initital Sketch (Ended up being VERY close to final)
-<img src="blob:chrome-untrusted://media-app/3e267020-10d9-4b3b-9df9-8e7078229acc" alt="Screenshot "alt="wiring"  style="width:500px;">
+<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:400px;">
 
 #### Reflection
 > This was pretty straight forward but again some major takaways for the future...
