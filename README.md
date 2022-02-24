@@ -130,7 +130,9 @@ void loop() {
 Wiring Diagram
 
 #### Reflection
-
+> Throughout the coding procces 
+>- It is very important to double check your code to make sure your sensor and servo pins are all connected properly.
+>- When writing code it is very helpful to think through what you want to accomplish with your code in sentences. It helps you better understand when to encorperate your statements and how to order your functions.  
 ___
 
 ## Milestones
