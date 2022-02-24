@@ -79,6 +79,8 @@ ___
 
 ## Arduino Code
 #### Description
+> The goal of our code is to turn our servo when the Ultrasonic sensor detects a hand and stops the servo when the photoresistor detects an increased light level indicating the box has opened. To do this we used various if statements. In order to control at what distance the ultrasonic sensor would tell the servo to turn and at what brightness to turn off, we wrote if statement with the chosen distance or brightness. However, it took several tests with different values to get one that would correctly tell the servo when to start turning and when to stop.  
+
 #### Evidence
 
 ```
