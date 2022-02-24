@@ -1,14 +1,33 @@
 # Motion Sensored Jack in the Box (Dom and Zac)
 
 ## Table of Contents 
-##### [Planning Stage](#planning-stage) 
-##### [CAD Renderings](#cad-renderings)
-##### [Base Construction](#base-construction)
-##### [Gear Construction](#gear-construction) 
-##### [Arduino Code](#arduino-code)
+* [Planning Stage](#planning-stage) 
+* [CAD Renderings](#cad-renderings)
+* [Base Construction](#base-construction)
+* [Gear Construction](#gear-construction) 
+* [Arduino Code](#arduino-code)
 ___
 
-## Planning Stage
+### Planning Stage
+#### Purpose & Expectations
+> To work diligently in order to create a product that improves and expands our overall knowledge of how basic engineering operates.  We are expected to work professionally, using our time and resources wisely.  We are expected to work with our partners efficiently to create an object that operates under the parameters provided. WIth this we will create device that incorporates all of the aspects of enginering we have learned about to scare and startle those who aren’t scared and startled enough in an effort to make the world a less scared-and-startle-free space.
+
+#### Description (establishing the foundation)
+> While planning, we knew that we wanted a device that would fit all of the perameters and requirments, while still being creative by adding ourown twist to the project.  This is where the "JacK in the Box" idea (credited to Zac) came in.  So at this point we had established a vison, howver we needed to exeute this.  After many plans and ideas we decided that a servo motor would be the most efficent and eiscreate way to turn the gears, creating the sound and giving that unnoticable and unsettling effect. This would be facilitated through a gear to the interior, and this servo would be inititaed by the ullrasonic sensor detecting movement.  Howver at this point we needed a way to stop the device at the correct time, so we plan to use a photorestir to stop the box by detecting light with its opening.  So now we have a plan, and only have to make it happen. 
+
+#### Planning Document
+[Here is the planning doc that was created pre-creation](https://docs.google.com/document/d/1VZ0yBxpb9KwrkzfvlptIvGs4Mx1cKSWb2F__tJyYy9g/edit#)
+
+#### Initital Sketch (Ended up being VERY close to final)
+<img src="blob:chrome-untrusted://media-app/3e267020-10d9-4b3b-9df9-8e7078229acc" alt="Screenshot "alt="wiring"  style="width:500px;">
+
+#### Reflection
+> This was pretty straight forward but again some major takaways for the future...
+> - When inserting base, set about the origine so you have one defined part.
+> - When inserting things such as screws or nuts, do not do it one by one, pick all spots and insert all once.
+> - Make sure that mates such as ones for wheels are resolute so they can turn.
+>
+> Skateboard complete!
 ### Materials Used
 
 - Acrylic (base of box)
