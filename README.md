@@ -19,7 +19,7 @@ ___
 [Here is the planning doc that was created pre-creation](https://docs.google.com/document/d/1VZ0yBxpb9KwrkzfvlptIvGs4Mx1cKSWb2F__tJyYy9g/edit#)
 
 #### Initital Sketch (Ended up being VERY close to final)
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jackInBox.png?raw=true" alt="wiring2" style="width:318px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/JIBINterior.png" alt="wiring2" style="width:290px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/JIBImage.png" alt="wiring2" style="width:280px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jackInBox.png?raw=true" alt="wiring2" style="width:300px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/JIBINterior.png" alt="wiring2" style="width:290px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/JIBImage.png" alt="wiring2" style="width:300px;">
 
 #### Reflection of Planning (done post project)
 > Overall I think we did a very good job with establishing a plan and going through with it, but some takaways...
@@ -80,6 +80,7 @@ ___
 
 ## Arduino Code
 #### Description
+> The goal of our code is to open our box by waving our hand infront of the ultrasonic sensor. We did this by using a Ultrasonic sensor servo and photoresistor. Whe used several if statements to tell the servo to  start moving when our hand would move infront of the ultrasonic sensor and to stop when the photoresistor read a higher light value. This would indacate the box had been opened and we no longer need to turn the servo. There were also several variables we needed to calibrate like the specific light value that would indacate when the box was open and the distance from swomeones hand to the sensor. If our chosen values were not specific enough our servo might stop before the box was open or start the opening sequence even if someones hand had not triggered the ultrasonic sensor.  
 #### Evidence
 
 ```
