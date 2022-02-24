@@ -1,13 +1,13 @@
 # Motion Sensored Jack in the Box (Dom and Zac)
 
 ## Table of Contents 
-##### [Planning Stage](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#cad-renderings-1) 
+##### [Planning Stage](#planning_stage) 
 ##### Materials Used
-##### [CAD Renderings](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#cad-renderings-1)
-##### [Base Construction](https://github.com/dcaffer07/LED-review-E2/blob/main/README.md#led-fade-wo-button)
-##### [Gear Design](https://github.com/dcaffer07/LED-review-E2/blob/main/README.md#potentiometers-1) 
+##### [CAD Renderings](#cad_renderings)
+##### [Base Construction](#base_construction)
+##### [Gear Design](#gear_construction) 
 ##### Milestones
-##### [Arduino Code](https://github.com/dcaffer07/LED-review-E2/blob/main/README.md#photoresistor-1)
+##### [Arduino Code](#arduino_code)
 ---
 
 ## Planning Stage
