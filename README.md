@@ -41,4 +41,53 @@ All in all it was a fun build and I am super happy with the way it came out.
 Gear Box Assembly
 ##### Reflection
 < Througout the process of designing the gear box we ran into several challenges.
--When making holes often times because they were so small they cave in on themselves, so sometimes we had to manually enlarge them with a drill. In the future we could make the holes slightly larger than needed in the attempt that is they cave in they will still be the right size. 
+-When making holes often times because they were so small they cave in on themselves, so sometimes we had to manually enlarge them with a drill. In the future we could make the holes slightly larger than needed in the attempt that is they cave in they will still be the right size.
+
+### Code
+##### Description
+##### Evidence
+
+```
+#include <Servo.h>
+Servo myservo;
+const int trigPin = 9;
+const int echoPin = 10;
+float duration, distance;
+int light = 0; // store the current "light" value
+
+void setup() {
+  pinMode(trigPin, OUTPUT);
+  pinMode(echoPin, INPUT);
+  Serial.begin(9600);
+  myservo.attach(11); //attaches the servo on pin 11
+  pinMode(8, OUTPUT);
+}
+
+void loop() {
+  light = analogRead(A0);// Reads "light" level from photoresistor and prints it.
+  Serial.println(light);
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+  duration = pulseIn(echoPin, HIGH);
+  distance = (duration * .0343) / 2; //Calculates distance from hand to sensor
+  Serial.print("Distance: "); // prints the distance
+  Serial.println(distance);
+  delay(100);
+  if (distance < 15) { // If hand is close to sensor rotate servo
+    myservo.write(155); 
+  } 
+  if (light > 200) {
+    Serial.println("Light");//If the "light" level is greater then 600 turn the "light" off and print "light".
+    digitalWrite(8, LOW);
+  
+    myservo.write(90); //Turns of servo
+  }
+}
+
+```
+
+##### Wiring Diagram
+##### Reflection
