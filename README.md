@@ -6,7 +6,7 @@
 ##### [Base Construction](#base-construction)
 ##### [Gear Construction](#gear-construction) 
 ##### [Arduino Code](#arduino-code)
----
+___
 
 ## Planning Stage
 ### Materials Used
@@ -23,9 +23,9 @@
 - Arduino
 - Battery pack
 - Screws
----
 
 ### Milestones
+___
 
 ## CAD Renderings 
 ### Base Construction
@@ -44,7 +44,7 @@
 - Always leave yourself more room than anticpated. This came up as we had orriginaly not left oursleves enough space to make the actually Jack attatch to the base, however we were able to fix this through extruding the walls 3mm's up and than reprinting.
 - Mentaly walk through the design and the CONSTRUCTION OF THE OTHER PIECES TO THE BOX! I say this because we had trouble attching the differnet aspects because they seemed to fit on OnShape howver when doing it by hand it was much more difficult, so just double check.
 All in all it was a fun build and I am super happy with the way it came out.
----
+___
 
 ### Gear Construction
 #### Description
@@ -58,7 +58,7 @@ Gear Box Assembly
 #### Reflection
 > Througout the process of designing the gear box we ran into several challenges.
 - When making holes often times because they were so small they cave in on themselves, so sometimes we had to manually enlarge them with a drill. In the future we could make the holes slightly larger than needed in the attempt that is they cave in they will still be the right size.
----
+___
 
 ## Arduino Code
 #### Description
@@ -111,3 +111,5 @@ void loop() {
 Wiring Diagram
 
 #### Reflection
+
+___
