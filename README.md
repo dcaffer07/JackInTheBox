@@ -130,10 +130,10 @@ void loop() {
 Wiring Diagram
 
 #### Reflection
-- Always double check your pin holes to make sure they are in the correct spot. You can waste a lot of time trying to find an issue with your code when it might be a problem with your wiring.
-- Be very careful with short circits. We had a lot of trouble connecting and uploading our code to are arduino because the metal nuts we were using to attach our arduino to the base was creating a short circit in the arduino. 
-- Talking through what your code is going to do in english really helps you understand the odering of your functions and what your code is supposed to acomplish.     
-___
+> We expected the code to be very challenging because of the many components we had but it was probably the easiest part of the project and we completed it in a couple class periods. However when writeing furture code here are some lessons ...    
+>- Always double check your pin holes to make sure they are in the correct spot. You can waste a lot of time trying to find an issue with your code when it might be a problem with your wiring.
+>- Be very careful with short circits. We had a lot of trouble connecting and uploading our code to are arduino because the metal nuts we were using to attach our arduino to the base was creating a short circit in the arduino. 
+>- Talking through what your code is going to do in english really helps you understand the odering of your functions and what your code is supposed to acomplish.    ___
 
 ## Milestones
 #### Project Milestone Market 1 (January 28, 2022)
