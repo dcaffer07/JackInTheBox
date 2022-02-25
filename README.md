@@ -32,18 +32,18 @@ ___
 
 ## Materials Used
 
-- Acrylic (base of box)
-- 3d printer (gears)
-- Axel Hub (for shaft attachment)
-- Wires 
-- Ultrasonic Sensor (imput for when to start servo)
-- Photoresistor (signals servo to stop)
-- Servo (to turns drum which makes music and opens box)
-- Resistors
-- Wires
-- Arduino
-- Battery pack
-- Screws
+>- Acrylic (base of box)
+>- 3d printer (gears)
+>- Axel Hub (for shaft attachment)
+>- Wires 
+>- Ultrasonic Sensor (imput for when to start servo)
+>- Photoresistor (signals servo to stop)
+>- Servo (to turns drum which makes music and opens box)
+>- Resistors
+>- Wires
+>- Arduino
+>- Battery pack
+>- Screws
 
 ## CAD Renderings 
 ### Base Construction
@@ -73,8 +73,12 @@ ___
 <img src="FinalAssembly.png" alt="FinalAssembly" style="width:300px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/shaftSleeve.png?raw=true" alt="FinalAssembly" style="width:350px;">
 
 #### Reflection
-> Througout the process of designing the gear box we ran into several challenges.
-- When making holes often times because they were so small they cave in on themselves, so sometimes we had to manually enlarge them with a drill. In the future we could make the holes slightly larger than needed in the attempt that is they cave in they will still be the right size.
+> The gears were a very time consuming prosses as there were many mesurements to take in order to ensure the gears would fit in the box without interfering with the puppet. The gears when put together work incredibly well the sining is very smooth and the speed of the servo is perfect, however looking back on the design process here are some things we learned or could have changed ...
+>- When making holes often times because they were so small they cave in on themselves, so sometimes we had to manually enlarge them with a drill. In the future we could make the holes slightly larger than needed in the attempt that is they cave in they will still be the right size.
+>- Think through all of your CAD design because there was one time when we just started creating holes for the servo before realizing that the servo had to be on the other side of the gear box for it to fit within the jack in the box. 
+>- When first making the gears we tried to make them by hand which was going to take a very long time. then we learned of an OnShape tool that would create the gears for us and this saved a lot of time. Always see if there is an onshape tool that might help you complete a repetitive task that other people have probably encountered before. 
+>- To mount one of our gears we used a metal axel hub which worked fine, but it probably would have worked better is we had 3d prinded a part that would have had the same affect. If we did this we could have printed it and the gear all in one piece which would have eliminated some of the trouble attaching the gear to the axel hub. 
+>- Our servo is spinning very close to max speed in order to play the song at a pace that makes it sound good. If we had made our gear attached to the servo slightly larger we could have made the song play at the same speed without spinning the servo so fast. 
 ___
 
 ## Arduino Code
