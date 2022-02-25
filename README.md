@@ -57,11 +57,11 @@ ___
 
 #### Reflection
 > All in all the contruction and printing istelf was reletively easy despite a few hicups, howver after going through it, here are a few take ways from my experience creating this...
-- When possible, always try to use accrilic and laser cut. We had orriginally planned to 3D print the entire this, howver we that would have cost almost 10 times the amount of, which was esspecial helpful considering the fact that we had to reprint.
-- Friction fit is an extermely efficient and easy way to attach things such as a box together.
-- Always leave yourself more room than anticpated. This came up as we had orriginaly not left oursleves enough space to make the actually Jack attatch to the base, however we were able to fix this through extruding the walls 3mm's up and than reprinting.
-- Mentaly walk through the design and the CONSTRUCTION OF THE OTHER PIECES TO THE BOX! I say this because we had trouble attching the differnet aspects because they seemed to fit on OnShape howver when doing it by hand it was much more difficult, so just double check.
-All in all it was a fun build and I am super happy with the way it came out.
+>- When possible, always try to use accrilic and laser cut. We had orriginally planned to 3D print the entire this, howver we that would have cost almost 10 times the amount of, which was esspecial helpful considering the fact that we had to reprint.
+>- Friction fit is an extermely efficient and easy way to attach things such as a box together.
+>- Always leave yourself more room than anticpated. This came up as we had orriginaly not left oursleves enough space to make the actually Jack attatch to the base, however we were able to fix this through extruding the walls 3mm's up and than reprinting.
+>- Mentaly walk through the design and the CONSTRUCTION OF THE OTHER PIECES TO THE BOX! I say this because we had trouble attching the differnet aspects because they seemed to fit on OnShape howver when doing it by hand it was much more difficult, so just double check.
+>All in all it was a fun build and I am super happy with the way it came out.
 ___
 
 ### Gear Construction
@@ -133,7 +133,8 @@ Wiring Diagram
 > We expected the code to be very challenging because of the many components we had but it was probably the easiest part of the project and we completed it in a couple class periods. However when writeing furture code here are some lessons ...    
 >- Always double check your pin holes to make sure they are in the correct spot. You can waste a lot of time trying to find an issue with your code when it might be a problem with your wiring.
 >- Be very careful with short circits. We had a lot of trouble connecting and uploading our code to are arduino because the metal nuts we were using to attach our arduino to the base was creating a short circit in the arduino. 
->- Talking through what your code is going to do in english really helps you understand the odering of your functions and what your code is supposed to acomplish.    ___
+>- Talking through what your code is going to do in english really helps you understand the odering of your functions and what your code is supposed to acomplish.    
+___
 
 ## Milestones
 #### Project Milestone Market 1 (January 28, 2022)
