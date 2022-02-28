@@ -140,6 +140,7 @@ Wiring Diagram
 >- Talking through what your code is going to do in english really helps you understand the odering of your functions and what your code is supposed to acomplish.    
 ___
 
-## Milestones
-#### Project Milestone Market 1 (January 28, 2022)
-#### Final Project
+## Milestones (by week)
+> - week 1
+> - Week 2
+> - Week 3 
