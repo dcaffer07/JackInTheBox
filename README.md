@@ -6,6 +6,7 @@
 * [Base Construction](#base-construction)
 * [Gear Construction](#gear-construction) 
 * [Arduino Code](#arduino-code)
+* [Milestones](#arduino-code)
 ___
 
 ## Planning Stage
