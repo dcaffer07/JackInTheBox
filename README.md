@@ -6,7 +6,7 @@
 * [Base Construction](#base-construction)
 * [Gear Construction](#gear-construction) 
 * [Arduino Code](#arduino-code)
-* [Milestones](#arduino-code)
+* [Milestones](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#milestones-by-week)
 ___
 
 ## Planning Stage
