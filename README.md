@@ -141,6 +141,18 @@ Wiring Diagram
 ___
 
 ## Milestones (by week)
-> - week 1
-> - Week 2
-> - Week 3 
+> - Week 1 (11/15 - 11/22): Finish research, get jack in the box, and begin deconstruction of box to get en idea of whats inside. (documentation throughout)
+> - Week 2 (11/22 - 11/29): Finish deconstruction of box and based on findings adjust plan accordingly (such as mechanism for wheel turn). (documentation throughout)
+> - Week 3 (11/29 - 12/06): Begin constrcution of the base on github using knowledge of inner box. All prior adjustments have been made. (documentation throughout)
+> - Week 4 (12/06 - 12/13): Continue work on base, start devising plan of action for gear mechanism. (documentation throughout)
+> - Week 5 (12/13 - 12/20): Continue base work and begin CAD renderings for the gear mechanism as needed. (documentation throughout)
+> - Week 6 (12/20 - 12/27): Winter Break - work on documentation as needed (documentation throughout) (documentation throughout)
+> - Week 7 (12/27 - 1/03): Winter Break - work on documentation as needed (documentation throughout) (documentation throughout)
+> - Week 8 (1/03 - 1/10): Continue work on base and gears on CAD.  Also establish an idea of what needs to be accomplsihed moving forward. (documentation throughout)
+> - Week 9 (1/10 - 1/17): Finish CAD renderings of base and begin laser cutting process.  Continue CAD work on gears. (documentation throughout)
+> - Week 10 (1/17 - 1/24): Consruct box and all of its add ons such as arduino orbattery mount.  Continue gear work. (documentation throughout)
+> - Week 11 (1/24 - 2/01): Finish gear box on onshape.  Begin 3D printing process.  Begin code. (documentation throughout)
+> - Week 12 (2/01 - 2/08): Finish gear 3D printing process and continue work on code/ wiring. (documentation throughout)
+> - Week 13 (2/08 - 2/15): Attatch gear mechanism to the box and continue to work on code and wiring. (documentation throughout)
+> - Week 14 (2/15 - 2/22): Get box fully assembled with all aspects such as gears and base and complete wiring and code. (documentation throughout)
+> - Week 15 (2/22 - 2/25): Complete Project.  upload and submit. (documentation throughout)
