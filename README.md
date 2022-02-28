@@ -71,7 +71,7 @@ ___
 #### Evidence
 [Gearbox in OnShape](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 #### Image
-<img src="FinalAssembly.png" alt="FinalAssembly" style="width:300px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/shaftSleeve.png?raw=true" alt="FinalAssembly" style="width:350px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/Screenshot%20(17).png?raw=true" alt="FinalAssembly" style="width:320px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:350px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/shaftSleeve.png?raw=true" alt="FinalAssembly" style="width:350px;">
 
 #### Reflection
 > The gears were a very time consuming prosses as there were many mesurements to take in order to ensure the gears would fit in the box without interfering with the puppet. The gears when put together work incredibly well the sining is very smooth and the speed of the servo is perfect, however looking back on the design process here are some things we learned or could have changed ...
