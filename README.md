@@ -7,7 +7,7 @@
 * [Gear Construction](#gear-construction) 
 * [Arduino Code](#arduino-code)
 * [Milestones](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#milestones-by-week)
-* [Final Design/Product](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#final-design-product)
+* [Final Design/Product](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#final-designproduct)
 ___
 
 ## Planning Stage
