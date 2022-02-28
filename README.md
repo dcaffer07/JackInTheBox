@@ -7,6 +7,7 @@
 * [Gear Construction](#gear-construction) 
 * [Arduino Code](#arduino-code)
 * [Milestones](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#milestones-by-week)
+* [Final Design/ Product](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#milestones-by-week)
 ___
 
 ## Planning Stage
@@ -157,3 +158,5 @@ ___
 > - Week 13 (2/08 - 2/15): Attatch gear mechanism to the box and continue to work on code and wiring. (documentation throughout)
 > - Week 14 (2/15 - 2/22): Get box fully assembled with all aspects such as gears and base and complete wiring and code. (documentation throughout)
 > - Week 15 (2/22 - 2/25): Complete Project.  upload and submit. (documentation throughout)
+
+## Final Design/ Product
