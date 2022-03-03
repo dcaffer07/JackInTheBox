@@ -161,10 +161,20 @@ ___
 > - Week 15 (2/22 - 2/25): Complete Project.  upload and submit. (documentation throughout)
 
 ## Problems, Miscalculations, and Corrections
-#### Design Issues
+#### Design/ Inital Stage Issues
+##### Opening the Box
++ Initially it was hard to open the box for adjustmentas while still preventing too much damage. But we had to open it to get make the build work, and as a result we had an extermely uneven bottom tof the box while cutting it.
+- To fix this we had to use a combination of filing down the edges along with using the press/clamp to compress it to a pojnt that it would sit flat.
+#####
 #### CAD Issues
++
++
 #### Code Issues
++
++
 #### Build Issues
-+ 
++
++
+
 ## Final Design/Product
 
