@@ -163,12 +163,18 @@ ___
 ## Problems, Miscalculations, and Corrections
 #### Design/ Inital Stage Issues
 ##### Opening the Box
-+ Initially it was hard to open the box for adjustmentas while still preventing too much damage. But we had to open it to get make the build work, and as a result we had an extermely uneven bottom tof the box while cutting it.
-- To fix this we had to use a combination of filing down the edges along with using the press/clamp to compress it to a pojnt that it would sit flat.
-#####
++ Problem: Initially it was hard to open the box for adjustmentas while still preventing too much damage. But we had to open it to get make the build work, and as a result we had an extermely uneven bottom tof the box while cutting it.
+- Solved by: To fix this we had to use a combination of filing down the edges along with using the press/clamp to compress it to a pojnt that it would sit flat.
+##### Gear Mechanism
++ Problem: We were originally struggleing to find a way to make the gear turn while still providing a sence of tansperency. 
++ Solved by: Zac came up with a way to feed the shaft through the gears so that when the servo turned the gars would and therefore music wuld play.
 #### CAD Issues
-+
-+
+##### 3D Print vs Laser Cut
++ Problem: We had orininally planed to use 3D printed material to consruct the bx, however this would leave no room for error as this print would cost over 60 dollars.
++ Solved by: We used acrillic material and laser cutting technology to contrsut the box in a more effience and time sensitive way, which would prove essential when having to recut.
+##### Walls Height
++ Problem: Initially the walls for the box to sit on which were attatched to the base were too low, which prevented the box from staying connected and in place. 
++ Solved by: WE had to reprint the wall,s keeping the same base but rasing the edges 3 mm.
 #### Code Issues
 +
 +
