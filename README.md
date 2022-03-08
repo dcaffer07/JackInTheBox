@@ -176,11 +176,18 @@ ___
 + Problem: Initially the walls for the box to sit on which were attatched to the base were too low, which prevented the box from staying connected and in place. 
 + Solved by: WE had to reprint the wall,s keeping the same base but rasing the edges 3 mm.
 #### Code Issues
+##### 
++
++
+#####
 +
 +
 #### Build Issues
+##### 
 +
 +
-
+#####
++
++
 ## Final Design/Product
 
