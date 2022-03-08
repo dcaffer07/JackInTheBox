@@ -191,4 +191,8 @@ ___
 +
 ## Final Design/Product
 
-<img src="https://github.com/dcaffer07/LED-review-E2/blob/main/Media/Phgotoresitor%20gif.gif?raw=true" alt="wiring"  style="width:500px;">
+<img src="https://user-images.githubusercontent.com/71406831/157320452-25020dac-9f7c-4ba2-b42a-1e3b1a5e82aa.png" alt="wiring"  style="width:500px;">
+
+https://im5.ezgif.com/tmp/ezgif-5-1fab86239f.gif
+
+![image](https://user-images.githubusercontent.com/71406831/157320452-25020dac-9f7c-4ba2-b42a-1e3b1a5e82aa.png)
