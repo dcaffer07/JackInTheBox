@@ -194,4 +194,4 @@ ___
 ##### Zac
 ##### Dom
 ### Final project images
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;">
