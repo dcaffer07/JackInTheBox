@@ -166,7 +166,7 @@ ___
 + Problem: Initially it was hard to open the box for adjustmentas while still preventing too much damage. But we had to open it to get make the build work, and as a result we had an extermely uneven bottom tof the box while cutting it.
 - Solved by: To fix this we had to use a combination of filing down the edges along with using the press/clamp to compress it to a pojnt that it would sit flat.
 ##### Gear Mechanism
-+ Problem: We were originally struggleing to find a way to make the gear turn while still providing a sence of tansperency. 
++ Problem: We were originally struggleing to find a way to make the gear turn while still fiting everything in the box.
 + Solved by: Zac came up with a way to feed the shaft through the gears so that when the servo turned the gars would and therefore music wuld play.
 #### CAD Issues
 ##### 3D Print vs Laser Cut
@@ -177,18 +177,21 @@ ___
 + Solved by: WE had to reprint the wall,s keeping the same base but rasing the edges 3 mm.
 #### Code Issues
 ##### 
-+
++ 
 +
 #####
 +
 +
 #### Build Issues
 ##### 
-+
-+
++ Problem: We wanted to instsale a rechargable battery in our box but we did not have a hole in our acrylic to insert the charger. 
++ Solution: We lowered the base of the laser cutter so we could fit the box in on it's side. We then cut a small rectangle on the side of the box.
 #####
 +
 +
 ## Final Design/Product
-
+### Reaction to completed project
+##### Zac
+##### Dom
+### Final project images
 <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;">
