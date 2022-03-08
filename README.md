@@ -191,8 +191,4 @@ ___
 +
 ## Final Design/Product
 
-<img src="https://user-images.githubusercontent.com/71406831/157320452-25020dac-9f7c-4ba2-b42a-1e3b1a5e82aa.png" alt="wiring"  style="width:500px;">
-
-https://im5.ezgif.com/tmp/ezgif-5-1fab86239f.gif
-
-![image](https://user-images.githubusercontent.com/71406831/157320452-25020dac-9f7c-4ba2-b42a-1e3b1a5e82aa.png)
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;">
