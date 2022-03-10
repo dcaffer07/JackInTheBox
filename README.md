@@ -194,6 +194,6 @@ ___
 ##### Zac
 ##### Dom
 ### Final project images
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/sideJB.jpg?raw=true" alt="wiring"  style="width:267px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jbside.jpg?raw=true" alt="wiring"  style="width:267px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/J&Bfront.jpg?raw=true" alt="wiring"  style="width:267px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:200px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/sideJB.jpg?raw=true" alt="wiring"  style="width:267px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jbside.jpg?raw=true" alt="wiring"  style="width:267px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/J&Bfront.jpg?raw=true" alt="wiring"  style="width:267px;">
 
 
