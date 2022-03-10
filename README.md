@@ -191,7 +191,8 @@ ___
 + Solution: Using a mixture of sanding as well as hammering and compressing, we were able to return the box to its original state (or close enough), so that it fit on the box snug and as intended.
 ## Final Design/Product
 ### Reaction to completed project
-##### Zac
+##### Zac 
+> no one cares. I dont remember asking your opinion
 ##### Dom
 > Personally, I couldn't be happier with how the project ended up.  I think we challenged ourselves to use all of our skills, and I think that it has made us better engineers and problem solvers as a whole.  Are there a few things I would have done differently? Ofcourse.  For example I wish we had made the base a different color, or had been more efficient and time sensitive in the early stages.  However as stated, I am super happy with how this project went and I look forward to doing more like it in the future.
 
