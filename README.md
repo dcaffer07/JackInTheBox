@@ -133,8 +133,7 @@ void loop() {
 ```
 
 #### Image
-<img src="Wiringdiagram.png" alt="Wiringdiagram" style="width:500px;">
-<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:290px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/Wiringdiagram.png?raw=true" alt="wiring2" style="width:20;">
 Wiring Diagram
 
 #### Reflection
@@ -193,7 +192,7 @@ ___
 ## Final Design/Product
 ### Reaction to completed project
 ##### Zac 
-> no one cares. I dont remember asking your opinion
+> I like project
 ##### Dom
 > Personally, I couldn't be happier with how the project ended up.  I think we challenged ourselves to use all of our skills, and I think that it has made us better engineers and problem solvers as a whole.  Are there a few things I would have done differently? Ofcourse.  For example I wish we had made the base a different color, or had been more efficient and time sensitive in the early stages.  However as stated, I am super happy with how this project went and I look forward to doing more like it in the future.
 
