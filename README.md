@@ -222,5 +222,7 @@ ___
 ### Final project images
 <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/GIFJB.gif" alt="wiring"  style="width:199px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/sideJB.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/jbside.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/J&Bfront.jpg?raw=true" alt="wiring"  style="width:265px;">
 
-* [Back To top.  Yes, that just happened](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#motion-sensored-jack-in-the-box-dom-and-zac)
+
+
+[Back To top.  Yes, that just happened](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#motion-sensored-jack-in-the-box-dom-and-zac)
 
