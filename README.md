@@ -84,7 +84,7 @@ ___
 >- Our servo is spinning very close to max speed in order to play the song at a pace that makes it sound good. If we had made our gear attached to the servo slightly larger we could have made the song play at the same speed without spinning the servo so fast. 
 ___
 
-## Arduino Code
+## Arduino Code and Wiring Diagram
 #### Description
 > The goal of our code is to turn our servo when the Ultrasonic sensor detects a hand and stop the servo when the photoresistor detects an increased light level indicating the box has opened. To do this we used various if statements. In order to control at what distance the ultrasonic sensor would tell the servo to turn and at what brightness to turn off, we wrote a statement with the chosen distance or brightness. However, it took several tests with different values to get one that would correctly tell the servo when to start turning and when to stop.  
 
@@ -155,7 +155,7 @@ void loop() {
 
 
 #### Image
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/horriblewiring%20(2).png?raw=true" alt="wiring"  style="width:450px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/horriblewiring%20(2).png?raw=true" alt="wiring"  style="width:500px;">
 
 [Wiring Diagram on TINKERCAD](https://www.tinkercad.com/things/0ICiq3q35Ag-neat-inari/editel?tenant=circuits)
 
