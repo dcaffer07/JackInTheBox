@@ -217,7 +217,7 @@ ___
 ##### Zac 
 > I like project
 ##### Dom
-> Personally, I couldn't be happier with how the project ended up.  I think we challenged ourselves to use all of our skills, and I think that it has made us better engineers and problem solvers as a whole.  Are there a few things I would have done differently? Ofcourse.  For example I wish we had made the base a different color, or had been more efficient and time sensitive in the early stages.  However as stated, I am super happy with how this project went and I look forward to doing more like it in the future.
+> Personally, I couldn't be happier with how the project ended up.  I think we challenged ourselves to use all of our skills, and I think that it has made us better engineers and problem solvers as a whole.  Are there a few things I would have done differently? Of course.  For example I wish we had made the base a different color, or had been more efficient and time sensitive in the early stages.  However as stated, I am super happy with how this project went and I look forward to doing more like it in the future.
 
 ### Final project images
 <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/GIFJB.gif" alt="wiring"  style="width:199px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/sideJB.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/jbside.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/J&Bfront.jpg?raw=true" alt="wiring"  style="width:265px;">
