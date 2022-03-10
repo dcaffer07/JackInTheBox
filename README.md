@@ -164,31 +164,31 @@ ___
 #### Design/ Inital Stage Issues
 ##### Opening the Box
 + Problem: Initially it was hard to open the box for adjustmentas while still preventing too much damage. But we had to open it to get make the build work, and as a result we had an extermely uneven bottom tof the box while cutting it.
-- Solved by: To fix this we had to use a combination of filing down the edges along with using the press/clamp to compress it to a pojnt that it would sit flat.
+- Solution: To fix this we had to use a combination of filing down the edges along with using the press/clamp to compress it to a pojnt that it would sit flat.
 ##### Gear Mechanism
 + Problem: We were originally struggleing to find a way to make the gear turn while still fiting everything in the box.
-+ Solved by: Zac came up with a way to feed the shaft through the gears so that when the servo turned the gars would and therefore music wuld play.
++ Solution: Zac came up with a way to feed the shaft through the gears so that when the servo turned the gars would and therefore music wuld play.
 #### CAD Issues
 ##### 3D Print vs Laser Cut
 + Problem: We had orininally planed to use 3D printed material to consruct the bx, however this would leave no room for error as this print would cost over 60 dollars.
-+ Solved by: We used acrillic material and laser cutting technology to contrsut the box in a more effience and time sensitive way, which would prove essential when having to recut.
++ Solution: We used acrillic material and laser cutting technology to contrsut the box in a more effience and time sensitive way, which would prove essential when having to recut.
 ##### Walls Height
 + Problem: Initially the walls for the box to sit on which were attatched to the base were too low, which prevented the box from staying connected and in place. 
-+ Solved by: WE had to reprint the wall,s keeping the same base but rasing the edges 3 mm.
-#### Code Issues
-##### 
-+ 
-+
-#####
-+
-+
++ Solution: WE had to reprint the wall,s keeping the same base but rasing the edges 3 mm.
+#### Code/Wiring Issues
+##### LED & Switch Attatchment 
++ Problem: After getting the product to seemingly work, we noticed that the battery was dying rather quikly.  This was the case due to the fact that as we integrated the LED and Switch we had attatched the switch to the LED only, making it so that the battery's were supplying juice to the servo and photresiter at all times, however the LED only on command.
++ Solution:  With a small bit of reqiring and code adjustment, we were able to easily fix this problem, preventing the unnesary use if energy and reasources (the battery).
+##### Photoresitor Light Value
++ Problem: THe calabrations on the photrestore were off, making both too sensitive or not sensitive enough at any given time.
++ Solution: We solved this using trial and error, testing it until we found the perfect calabration that allowed for the funtion that we were going for.
 #### Build Issues
-##### 
+##### Rechargable Battery
 + Problem: We wanted to instsale a rechargable battery in our box but we did not have a hole in our acrylic to insert the charger. 
 + Solution: We lowered the base of the laser cutter so we could fit the box in on it's side. We then cut a small rectangle on the side of the box.
-#####
-+
-+
+##### Dealing with a BEAT UP Box
++ Problem: Although it may ot seem this way at a first glance, our box was bent significantly, leading to an uneaven bottom that did not allow for it to sit in its mold (base).
++ Solution: Using a mixture of sanding as well as hammering and compressing, we were able to resturn the boc to its orignial state (or close enough), so that it fit on the box snug and as intended.
 ## Final Design/Product
 ### Reaction to completed project
 ##### Zac
