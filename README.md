@@ -224,5 +224,5 @@ ___
 
 
 
-[Back To top.  Yes, that just happened](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#motion-sensored-jack-in-the-box-dom-and-zac)
+[Back to the top.  Yes, that just happened](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#motion-sensored-jack-in-the-box-dom-and-zac)
 
