@@ -88,53 +88,76 @@ ___
 #### Description
 > The goal of our code is to turn our servo when the Ultrasonic sensor detects a hand and stop the servo when the photoresistor detects an increased light level indicating the box has opened. To do this we used various if statements. In order to control at what distance the ultrasonic sensor would tell the servo to turn and at what brightness to turn off, we wrote a statement with the chosen distance or brightness. However, it took several tests with different values to get one that would correctly tell the servo when to start turning and when to stop.  
 
-#### Evidence
 
-```
+#### Evidence ([CODE on Arduino.cc](https://create.arduino.cc/editor/zsiller38/f232efc9-ba8e-49b9-8bce-a9e6f0df5acc))
+
+```C++
+
+// Dominick Cafferillo & Zachary Siller
+// Jack in Box
+// Ultrasonic sensor initiated servo, turned off by photoresistor.
+
 #include <Servo.h>
 Servo myservo;
 const int trigPin = 9;
 const int echoPin = 10;
 float duration, distance;
 int light = 0; // store the current "light" value
+const int panelswitch = 3;
+const int LED = 2;
+int switchstate = 0;
+
 
 void setup() {
+  pinMode(7, OUTPUT);
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
   Serial.begin(9600);
   myservo.attach(11); //attaches the servo on pin 11
-  pinMode(8, OUTPUT);
+  pinMode(LED, OUTPUT);
+  pinMode(panelswitch, INPUT);
 }
 
+
 void loop() {
-  light = analogRead(A0);// Reads "light" level from photoresistor and prints it.
-  Serial.println(light);
-  digitalWrite(trigPin, LOW);
-  delayMicroseconds(2);
-  digitalWrite(trigPin, HIGH);
-  delayMicroseconds(10);
-  digitalWrite(trigPin, LOW);
-  duration = pulseIn(echoPin, HIGH);
-  distance = (duration * .0343) / 2; //Calculates distance from hand to sensor
-  Serial.print("Distance: "); // prints the distance
-  Serial.println(distance);
-  delay(100);
-  if (distance < 15) { // If hand is close to sensor rotate servo
-    myservo.write(155); 
-  } 
-  if (light > 200) {
-    Serial.println("Light");//If the "light" level is greater than 600 turn the "light" off and print "light".
-    digitalWrite(8, LOW);
-  
-    myservo.write(90); //Turns of servo
-  }
+  switchstate = digitalRead(3);
+  if (switchstate == LOW) {
+    digitalWrite(2, HIGH);
+    light = analogRead(A0);// Reads "light" level from photoresistor and prints it.
+    Serial.println(light);
+    digitalWrite(trigPin, LOW);
+    delayMicroseconds(2);
+    digitalWrite(trigPin, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(trigPin, LOW);
+    duration = pulseIn(echoPin, HIGH);
+    distance = (duration * .0343) / 2; //Calculates distance from hand to sensor
+    Serial.print("Distance: "); // prints the distance
+    Serial.println(distance);
+    delay(100);
+    if (distance < 15) { // If hand is close to sensor rotate servo
+      myservo.write(155);
+    }
+    if (light > 15) {
+      Serial.println("Light");//If the "light" level is greater then 600 turn the "light" off and print "light".
+      digitalWrite(8, LOW);
+      delay(1100);
+      myservo.write(90); //Turns of servo
+    }}
+  else {
+  digitalWrite(2, LOW);
 }
+}
+
 
 ```
 
+
+
 #### Image
-<img src="" alt="wiring"  style="width:400px;">
-Wiring Diagram
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/horriblewiring%20(2).png?raw=true" alt="wiring"  style="width:450px;">
+
+[Wiring Diagram on TINKERCAD](https://www.tinkercad.com/things/0ICiq3q35Ag-neat-inari/editel?tenant=circuits)
 
 #### Reflection
 > We expected the code to be very challenging because of the many components we had but it was probably the easiest part of the project and we completed it in a couple class periods. However when writing future code here are some lessons ...    
