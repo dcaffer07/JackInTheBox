@@ -133,9 +133,10 @@ void loop() {
 ```
 
 #### Image
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/Wiringdiagram.png?raw=true" alt="wiring2" style="width:20;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/Wiringdiagram.png?raw=true" alt="wiring"  style="width:199px;">
 Wiring Diagram
 
+https://github.com/dcaffer07/JackInTheBox/blob/main/media/Wiringdiagram.png?raw=true
 #### Reflection
 > We expected the code to be very challenging because of the many components we had but it was probably the easiest part of the project and we completed it in a couple class periods. However when writing future code here are some lessons ...    
 >- Always double check your pin holes to make sure they are in the correct spot. You can waste a lot of time trying to find an issue with your code when it might be a problem with your wiring.
