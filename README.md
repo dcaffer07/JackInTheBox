@@ -22,7 +22,7 @@ ___
 [Here is the planning doc that was created pre-creation](https://docs.google.com/document/d/1VZ0yBxpb9KwrkzfvlptIvGs4Mx1cKSWb2F__tJyYy9g/edit#)
 
 #### Initial Sketch (Ended up being VERY close to final)
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jackInBox.png?raw=true" alt="wiring2" style="width:318px;">  <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/JIBINterior.png" alt="wiring2" style="width:290px;">  <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/JIBImage.png" alt="wiring2" style="width:280px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/jackInBox.png?raw=true" alt="wiring2" style="width:318px;">  <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/JIBINterior.png" alt="wiring2" style="width:290px;">  <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/JIBImage.png" alt="wiring2" style="width:280px;">
 
 #### Reflection of Planning (done post project)
 > Overall I think we did a very good job with establishing a plan and going through with it, but some takeaways...
@@ -55,7 +55,7 @@ ___
 #### Evidence
 [Base in OnShape](https://cvilleschools.onshape.com/documents/0683eb52a22173b51047934c/w/f86c45cb89f616eb262b8ff8/e/189681eae29da1fce519768c)
 #### Image
-<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:290px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/ToptoBase.png?raw=true" alt="wiring2" style="width:290px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/layout.png?raw=true" alt="wiring2" style="width:180px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/topsketch.png?raw=true" alt="wiring2" style="width:250px;">
+<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:290px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/ToptoBase.png?raw=true" alt="wiring2" style="width:290px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/layout.png?raw=true" alt="wiring2" style="width:180px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/topsketch.png?raw=true" alt="wiring2" style="width:250px;">
 
 
 #### Reflection
@@ -73,7 +73,7 @@ ___
 #### Evidence
 [Gearbox in OnShape](https://cvilleschools.onshape.com/documents/423806bfa6dff149a997954e/w/4dd89bd35a6ce4db869d6986/e/77e276e17288adce5d357a35)
 #### Image
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/Screenshot%20(17).png?raw=true" alt="FinalAssembly" style="width:320px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/servoGeer.png?raw=true" alt="FinalAssembly" style="width:340px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/shaftSleeve.png?raw=true" alt="FinalAssembly" style="width:340px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/Screenshot%20(17).png?raw=true" alt="FinalAssembly" style="width:320px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/servoGeer.png?raw=true" alt="FinalAssembly" style="width:340px;"><img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/shaftSleeve.png?raw=true" alt="FinalAssembly" style="width:340px;">
 
 #### Reflection
 > The gears were a very time consuming process as there were many measurements to take in order to ensure the gears would fit in the box without interfering with the puppet. The gears when put together work incredibly well, the singing is very smooth and the speed of the servo is perfect, however looking back on the design process here are some things we learned or could have changed ...
@@ -197,4 +197,4 @@ ___
 > Personally, I couldn't be happier with how the project ended up.  I think we challenged ourselves to use all of our skills, and I think that it has made us better engineers and problem solvers as a whole.  Are there a few things I would have done differently? Ofcourse.  For example I wish we had made the base a different color, or had been more efficient and time sensitive in the early stages.  However as stated, I am super happy with how this project went and I look forward to doing more like it in the future.
 
 ### Final project images
-<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/GIFJB.gif" alt="wiring"  style="width:199px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/sideJB.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/jbside.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/J&Bfront.jpg?raw=true" alt="wiring"  style="width:265px;">
+<img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/GIFJB.gif" alt="wiring"  style="width:199px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/sideJB.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/jbside.jpg?raw=true" alt="wiring"  style="width:265px;"> <img src="https://github.com/dcaffer07/JackInTheBox/blob/main/media/J&Bfront.jpg?raw=true" alt="wiring"  style="width:265px;">
