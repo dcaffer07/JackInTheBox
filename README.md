@@ -146,7 +146,7 @@ void loop() {
     }}
   else {
   digitalWrite(2, LOW);
-}
+  }
 }
 
 
