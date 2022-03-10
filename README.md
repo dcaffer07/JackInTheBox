@@ -134,6 +134,7 @@ void loop() {
 
 #### Image
 <img src="Wiringdiagram.png" alt="Wiringdiagram" style="width:500px;">
+<img src="https://user-images.githubusercontent.com/71406831/153493685-90b107be-2091-4427-8590-cf9d1f6e740c.png" alt="wiring2" style="width:290px;">
 Wiring Diagram
 
 #### Reflection
