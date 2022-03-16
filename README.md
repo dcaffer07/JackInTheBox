@@ -5,7 +5,7 @@
 * [CAD Renderings](#cad-renderings)
 * [Base Construction](#base-construction)
 * [Gear Construction](#gear-construction) 
-* [Arduino Code](#arduino-code)
+* [Arduino Code](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#arduino-code-and-wiring-diagram)
 * [Milestones](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#milestones-by-week)
 * [Problems, Miscalculations, and Corrections](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#final-designproduct)
 * [Final Design/Product](https://github.com/dcaffer07/JackInTheBox/blob/main/README.md#final-designproduct)
